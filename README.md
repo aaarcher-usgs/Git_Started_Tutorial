@@ -21,7 +21,7 @@ one by one
 
 *The first group/person to enter the answer in the box below wins!*
 
-The slope of the relationship between unicorn horn length and age is:
+For every year of life, a unicorn's horn length increases by:
 _______________
-Answer here: 
+Answer here:      inches
 _______________
