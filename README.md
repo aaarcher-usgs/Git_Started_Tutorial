@@ -33,7 +33,7 @@ Let's see who can guess the other team's famous person with the fewest questions
 
 - Get into 2 teams
 - Flip a coin to see which team starts ("Alpha team")
-- Open "programs/twenty_questions_alpha.R"
+- Open "programs/twenty_questions_round1.R"
 - Alpha team: Write a question in the box for question 1. Commit and push.
 - Beta team: Pull. Answer question. Commit and push.
 - Repeat previous two steps until you can guess the famous person
@@ -43,7 +43,7 @@ How many questions did it take Beta team to quess correctly?
 
 _______________
 
-Now, switch rolls, open "programs/twenty_questions_beta.R" and begin again!
+Now, switch rolls, open "programs/twenty_questions_round2.R" and begin again!
 
 _______________
 How many questions did it take Alpha team to guess correctly? 
