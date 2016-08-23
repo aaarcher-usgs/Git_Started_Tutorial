@@ -6,6 +6,7 @@ Tutorial to teach GitHub and RStudio mechanics to the Fieberg Lab
 
 1. Roll call to test connection between GitHub & RStudio
 2. Unicorn biology
+3. Twenty questions
 
 ### 1. Roll Call
 
@@ -25,3 +26,16 @@ For every year of life, a unicorn's horn length increases by:
 _______________
 Answer here:      inches
 _______________
+
+### 3. Twenty Questions
+
+Let's see who can guess the other team's famous person with the fewest questions
+
+- Get into 2 teams
+- Flip a coin to see which team starts ("Alpha team")
+- Open "programs/twenty_questions_alpha.R"
+- Alpha team: Write a question in the box for question 1. Commit and push.
+- Beta team: Pull. Answer question. Commit and push.
+- Repeat previous two steps until you can guess the famous person
+- Switch rolls and begin again!
+
