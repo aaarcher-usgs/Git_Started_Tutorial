@@ -1,0 +1,10 @@
+#' # Roll Call
+#' 
+#' ## Git Started Tutorial
+#' 
+#' **September 2016**
+#' 
+#' Use your GitHub account to add your name to the following list:
+#' 
+#' 1. Althea @aaarchmiller
+#' 
