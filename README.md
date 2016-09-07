@@ -15,7 +15,7 @@ one by one
 
 - Open "programs/roll_call.R"
 - Add your name and GitHub handle to the list
-- Commit the change to save to your local system
+- Commit the change to save to your local system "staging area"
 - Push the change back to GitHub
 
 ### 2. Unicorn biology
