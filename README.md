@@ -13,6 +13,7 @@ Tutorial to teach GitHub and RStudio mechanics to the Fieberg Lab
 We will go around the table and check the connection between GitHub and RStudio
 one by one
 
+- “Pull” to make your version match the master branch
 - Open "programs/roll_call.R"
 - Add your name and GitHub handle to the list
 - Commit the change to save to your local system "staging area"
