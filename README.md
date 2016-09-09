@@ -6,7 +6,7 @@ Tutorial to teach GitHub and RStudio mechanics to the Fieberg Lab
 
 1. Roll call to test connection between GitHub & RStudio
 2. Unicorn biology
-3. Twenty questions
+3. Twenty questions (didn't get to this)
 
 ### 1. Roll Call
 
