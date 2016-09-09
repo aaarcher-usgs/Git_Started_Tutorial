@@ -3,7 +3,7 @@
 #' ## Generate data used in the Git Started Tutorial exercises
 #' 
 #' Set Seed
-set.seed(8675309)
+set.seed(867509)
 
 #' Characteristics of 100 different unicorns
 unicorn.ID <- seq(from = 1, to = 100, by = 1)
