@@ -5,10 +5,10 @@
 #' Set Seed
 set.seed(8675309)
 
-#' Characteristics of 100 unicorns
+#' Characteristics of 100 different unicorns
 unicorn.ID <- seq(from = 1, to = 100, by = 1)
-horn.length <- rnorm(n = 100, mean = 5, sd = 2)
-age <- 1 + 0.5*horn.length + rnorm(n = 100, mean = 0, sd = .1)
+horn.length <- rnorm(n = 100, mean = 5, sd = 2) #inches
+age <- 1 + 0.5*horn.length + rnorm(n = 100, mean = 0, sd = .1) #years
 summary(age)
 
 #' Combine into a new dataset
