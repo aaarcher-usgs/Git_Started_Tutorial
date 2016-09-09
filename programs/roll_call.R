@@ -6,5 +6,6 @@
 #' 
 #' Use your GitHub account to add your name to the following list:
 #' 
-#' 1. 
-#' 
+#' 1. david
+#' 2. mark!!!
+#' 3. Kyle
