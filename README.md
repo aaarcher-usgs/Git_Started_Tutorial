@@ -25,8 +25,11 @@ one by one
 
 For every year of life, a unicorn's horn length increases by:
 _______________
-Answer here:   3   inches
+Answer here:   1.965  inches
 _______________
+load("data/unicorn_data.R")
+unicorn_data
+lm(horn.length~age,data=unicorn_data)
 
 ### 3. Twenty Questions
 
