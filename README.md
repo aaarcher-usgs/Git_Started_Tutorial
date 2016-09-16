@@ -25,7 +25,7 @@ one by one
 
 For every year of life, a unicorn's horn length increases by:
 _______________
-Answer here:      inches
+Answer here:    2.517  inches
 _______________
 
 ### 3. Twenty Questions
