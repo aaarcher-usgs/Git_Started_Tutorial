@@ -21,13 +21,22 @@ one by one
 
 ### 2. Unicorn biology
 
-wordzzzz
-
 *The first group/person to enter the answer in the box below wins!*
 
 For every year of life, a unicorn's horn length increases by:
 _______________
+<<<<<<< HEAD
 Answer here:    1.965  inches
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Answer here:   1.965  inches
+=======
+Answer here:   2.003   inches
+>>>>>>> 4e4f6f6b6c86d71a3b4311c2c14084412bbaaaa4
+>>>>>>> f6010f9457cd66abfd2da3ba767b7137b057106e
+>>>>>>> 666b75c681b3215a9260067fcc3b5b9844b727e0
 _______________
 
 ### 3. Twenty Questions
